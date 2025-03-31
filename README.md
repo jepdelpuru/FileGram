@@ -51,6 +51,3 @@ python file_manager_bot.py
 
 El bot está protegido para ser usado solo por un usuario específico (el propietario). Si alguien más intenta usarlo, recibirá un mensaje de denegación.
 
-📸 Capturas (opcional)
-
-Puedes añadir capturas de pantalla en esta sección para mostrar el funcionamiento.
