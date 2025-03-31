@@ -41,7 +41,7 @@ bot_token = "TU_BOT_TOKEN"
 
 Ejecuta el bot:
 
-python file_manager_bot.py
+python FileGram.py
 
 🧪 Comandos disponibles
 
